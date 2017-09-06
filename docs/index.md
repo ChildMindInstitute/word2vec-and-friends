@@ -1,3 +1,9 @@
+# See Also
+## Interpretability
+### tools
+* [H<sub>2</sub>O, Sparkling Water, Steam, & Deep Water Documentation](http://docs.h2o.ai/h2o/latest-stable/index.html)
+* [Lime](https://github.com/marcotcr/lime)
+
 # Summary
 
 Word embeddings have received a lot of attention since some Tomas Mikolov published [word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) in 2013  and showed that the embeddings that the neural network learned by "reading" a large corpus of text preserved semantic relations between words. As a result, this type of embedding started being studied in more detail and applied to more serious NLP and IR tasks such as summarization, query expansion, etc... More recently, researchers and practitioners alike have come to appreciate the power of this type of approach and have started a cottage industry of modifying Mikolov's original approach to many different areas.  
